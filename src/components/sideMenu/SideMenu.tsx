@@ -80,7 +80,7 @@ const SideMenu = () => {
           Contact
         </NavLink>
         <Socials />
-        <p className="text-sm">&copy; 2022-2023</p>
+        <p className="text-sm">&copy; Designed by Sandy Zhao in 2024. All rights reserved.</p>
       </nav>
     </header>
   )
