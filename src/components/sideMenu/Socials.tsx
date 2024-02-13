@@ -5,7 +5,7 @@ import Portfolio from '../../assets/images/socials/portfolio.png'
 const Socials = () => {
   return (
     <section className="flex flex-row gap-3">
-      <a
+      {/* <a
         href="https://github.com/catherineisonline/travel-with-catherine"
         target="_blank"
         rel="noopener noreferrer"
@@ -29,7 +29,7 @@ const Socials = () => {
           src={Portfolio}
           alt="Portfolio icon"
         />
-      </a>
+      </a> */}
     </section>
   )
 }

@@ -10,7 +10,7 @@ const About = () => {
   })
   return (
     <article className="flex flex-col min-h-screen sm:col-span-5 md:col-span-4 items-center">
-       <h2 className="text-4xl text-center uppercase text-black mt-6">About</h2>
+       {/* <h2 className="text-4xl text-center uppercase text-black mt-6">About</h2>
       <section className="flex flex-col items-center mt-10 text-2xl gap-5 text-slate-600 p-2">
         <p className="text-base  sm:text-lg ">
           My name is Ekaterine Mitagvaria, and I come from the beautiful city of Tbilisi, Georgia. Programming is my passion, and I love every moment I spend immersed in it. The joy of creating something from scratch and bringing ideas to life is an absolute pleasure for me.    </p>
@@ -61,7 +61,7 @@ const About = () => {
           />
           <p className="font-bold">Istanbul, Turkey</p>
         </section>
-      </section>
+      </section> */}
     </article>
   )
 }
