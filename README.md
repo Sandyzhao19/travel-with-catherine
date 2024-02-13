@@ -3,7 +3,7 @@
 ![Project Preview](https://github.com/catherineisonline/travel-with-catherine/blob/main/public/project-preview-3.png?raw=true)
 ![Project Preview](https://github.com/catherineisonline/travel-with-catherine/blob/main/public/project-preview-4.png?raw=true)
 
-# Leah Photography - [Live Preview](https://leah-photography.vercel.app/)
+# Leah Lenslyrics - [Live Preview](https://leah-lenslyrics.vercel.app/)
 
 [![GitHub license](https://img.shields.io/github/license/catherineisonline/travel-with-catherine)](https://github.com/catherineisonline/travel-with-catherine/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/catherineisonline/travel-with-catherine)](https://github.com/catherineisonline/travel-with-catherine/issues)
@@ -22,7 +22,7 @@
 
 ## Introduction <a id="introduction"></a>
 
-"Leah Photography" is a project where I share my love for traveling and my photography portfolio. It contains images from various travel destinations that I have captured during my travels. The project is built using [React](https://reactjs.org/), [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/) and [Tailwind](https://tailwindcss.com/docs).
+"Leah Lenslyrics" is a project where I share my love for traveling and my photography portfolio. It contains images from various travel destinations that I have captured during my travels. The project is built using [React](https://reactjs.org/), [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/) and [Tailwind](https://tailwindcss.com/docs).
 
 ## Features  <a id="features"></a>
 

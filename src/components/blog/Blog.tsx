@@ -4,7 +4,7 @@ import BlogPosts from './BlogPosts';
 
 const Blog = () => {
   useEffect(() => {
-    document.title = "Blog | Leah Photography";
+    document.title = "Blog | Leah Lenslyrics";
   })
   return (
     <section className="sm:col-span-5 md:col-span-4 min-h-screen scrollbar-hide p-2">
