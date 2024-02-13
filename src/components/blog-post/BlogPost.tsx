@@ -20,7 +20,7 @@ const BlogPost = () => {
   }
 
   useEffect(() => {
-    document.title = `${post.title} | Travel with Catherine`;
+    document.title = `${post.title} | Leah Photography`;
     findPost(window.location.pathname.toString().substring(6).replaceAll('%20', ' '))
   },[post])
     return (

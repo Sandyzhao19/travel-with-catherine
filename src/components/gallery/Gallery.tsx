@@ -42,7 +42,7 @@ const Gallery = () => {
   }
 
   useEffect(() => {
-    document.title = "Gallery | Travel with Catherine";
+    document.title = "Gallery | Leah Photography";
     setEndOffset(itemOffset + 12);
     setcurrentBlogPosts([...GalleryData].slice(itemOffset, endOffset));
   }, [setEndOffset, endOffset, itemOffset]);

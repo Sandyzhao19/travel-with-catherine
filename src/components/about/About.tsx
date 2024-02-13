@@ -6,7 +6,7 @@ import ImgFour from '../../assets/images/personal-gallery/imgFour.jpeg'
 
 const About = () => {
   useEffect(() => {
-    document.title = "Blog | Travel with Catherine";
+    document.title = "Blog | Leah Photography";
   })
   return (
     <article className="flex flex-col min-h-screen sm:col-span-5 md:col-span-4 items-center">
