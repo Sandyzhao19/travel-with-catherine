@@ -37,8 +37,8 @@ const SideMenu = () => {
         } flex-col items-center fixed mt-60 text-2xl gap-5 text-slate-600 hidden md:flex`}
       >
         <h1 className="sm:text-xl md:text-3xl text-center uppercase text-black font-light">
-          Travel with<br></br>
-          <span className="font-semibold font-namefont text-5xl">Catherine</span>
+          Leah<br></br>
+          <span className="font-semibold font-namefont text-5xl">Photography</span>
         </h1>
         <NavLink
           className="hover:text-blue-600 smooth-transition text-xl"
